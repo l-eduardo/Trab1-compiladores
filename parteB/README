@@ -1,0 +1,29 @@
+# Compiler Project - Part b
+# Luiz Eduardo da Silva - 22202683
+
+## Visão Geral
+Essa pasta contem a Parte B do trabalho 1 da disciplina de introdução a compiladores
+
+## Requisitos
+python 3.12
+
+## Instruções
+
+1. Certifique-se de que tem o Python 3.12 instalado:
+    ```bash
+    python --version
+    ```
+
+2. Instale os requisitos:
+    ```bash
+    pip install requirements.txt
+    ```
+OBS: Ou instale apenas ply==3.11
+
+3. Execute o programa:
+    ```bash
+    python __main.py__ <file_path>
+    ```
+
+Valid file: ./inputs/input_valido.lsi
+Invalid file: ./inputs/input_invalido.lsi

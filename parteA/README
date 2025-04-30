@@ -1,0 +1,23 @@
+# Compiler Project - Part a
+# Luiz Eduardo da Silva - 22202683
+
+## Visão Geral
+Essa pasta contem a Parte A do trabalho 1 da disciplina de introdução a compiladores
+
+## Requisitos
+python 3.12
+
+## Instruções
+
+1. Certifique-se de que tem o Python 3.12 instalado:
+    ```bash
+    python --version
+    ```
+
+2. Execute o programa:
+    ```bash
+    python __main.py__ <file_path>
+    ```
+
+Valid file: ./inputs/input_valido.txt
+Invalid file: ./inputs/input_invalido.txt
